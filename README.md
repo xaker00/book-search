@@ -12,6 +12,8 @@ Technologies:
 * GraphQL
 * React
 
+![screenshot](https://github.com/xaker00/book-search/raw/master/screenshot.png)
+
 ## Table of Contents
 
 - [Book Search](#book-search)
